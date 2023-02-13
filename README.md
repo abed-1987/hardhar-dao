@@ -8,8 +8,8 @@ It's recommended that you've gone through the [hardhat getting started documenta
 
 1. Clone this repo:
 ```
-git clone https://github.com/abed-1987/hardhar-dao.git
-cd hardhar-dao-main
+git clone https://github.com/abed-1987/hardhat-dao.git
+cd hardhat-dao-main
 ```
 2. Install dependencies
 ```sh
